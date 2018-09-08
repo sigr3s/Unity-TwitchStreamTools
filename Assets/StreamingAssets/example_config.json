@@ -1,0 +1,5 @@
+{
+    "bot_name" : "your_bot_name",
+    "bot_access_token" : "bot_access_token",
+    "bot_refresh_token" : "bot_refresh_token"
+}
